@@ -1,0 +1,75 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+.box{
+    display: flex;
+    height: 400px;
+    width: 400px;
+    background-image: radial-gradient(grey,rgb(255, 255, 255),rgb(97, 97, 97));
+    border-radius: 400px;
+    justify-content: center;
+}
+div{
+    font: 1.5em sans-serif;
+    color: white;
+    justify-self: center;
+}
+#ms{
+    margin-top: 180px;
+    width: 100px;
+    height: 100px;
+}
+#s{
+    margin-top: 180px;
+    
+}
+#m{
+    margin-top: 180px;
+}
+#bt{
+    background-image: linear-gradient(grey,rgb(255, 255, 255),rgb(97, 97, 97));
+    border-radius: 20px;
+}
+div{
+    color: black;
+    
+}
+
+    .lap{
+        height: 60px;  
+margin: 0px;
+width: 100px;
+border-radius: 60px;
+font: 0.6em sans-serif;
+
+
+    }
+    .res{
+        height: 60px;  
+        margin: 0px;
+        width: 100px;
+border-radius: 60px;
+font: 0.6em sans-serif;
+
+    }
+#start{
+margin-left: 40px;
+height: 60px;  
+margin-right: 0px;
+width: 100px;
+border-radius: 60px;
+font: 0.6em sans-serif;
+
+
+}
+.lapss{
+margin-left: 115px;
+font: 0.6em sans-serif;
+width: 175px;
+border-radius: 5px;
+background-image: linear-gradient(grey,rgb(255, 255, 255),rgb(97, 97, 97));
+}
+.aaaaa{
+color: rgb(17, 0, 58);
+}
